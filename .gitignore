@@ -1,0 +1,4 @@
+# Built FFmpeg artifacts (xcframeworks) — not committed
+Artifacts/
+build/
+*.xcframework/

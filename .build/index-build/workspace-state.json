@@ -1,0 +1,121 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libswscale.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libswscale"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libavutil.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libavutil"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libavfilter.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libavfilter"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libswresample.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libswresample"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libavformat.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libavformat"
+      },
+      {
+        "kind" : {
+          "xcframework" : {
+
+          }
+        },
+        "packageRef" : {
+          "identity" : "ibaiffmpeg",
+          "kind" : "root",
+          "location" : "/Users/metaapp/Local/code/iBaiFFmpeg",
+          "name" : "iBaiFFmpeg"
+        },
+        "path" : "/Users/metaapp/Local/code/iBaiFFmpeg/Artifacts/Libavcodec.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "Libavcodec"
+      }
+    ],
+    "dependencies" : [
+
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
