@@ -1,4 +1,0 @@
-module FFmpegShim {
-    umbrella "/Users/metaapp/Local/code/iBaiFFmpeg/Sources/FFmpegShim/include"
-    export *
-}
